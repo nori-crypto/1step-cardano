@@ -3,5 +3,5 @@
   "description": "",
   "ticker": "1STEP",
   "homepage": "https://www.1step-cardano.com/",
-  "extended": "https://nori-crypto.github.io/1step-cardano/poolMetaDataExtended.json"
+  "extended": "https://nori-crypto.github.io/1step-cardano/poolMetaDataEx.json"
 }
