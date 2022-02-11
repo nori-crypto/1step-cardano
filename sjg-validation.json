@@ -1,0 +1,8 @@
+{
+  "name":"nori_crypto#5463",
+  "ticker":"1STEP",
+  "discordId":"870463308044599366",
+  "pool-list":"true",
+  "poolMetaData":"https://nori-crypto.github.io/1step-cardano/poolMetaData.json",
+  "validation":"https://nori-crypto.github.io/1step-cardano/sjg-validation.json"
+}
